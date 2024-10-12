@@ -1,0 +1,11 @@
+let favActorFirstName = "Thomas";
+let favActorLastName = "Valdez"; 
+let fullName = favActorFirstName + " " + favActorLastName;
+let uppercase = fullName. toUpperCase () ;
+let message = "My favorite actor is " + uppercase ;
+message += ", and his best show is Silicon Valley.";
+console.log ("first name:", favActorFirstName);
+console.log ("last name:", favActorFirstName);
+console.log ("fullname:", fullName);
+console.log ("uppercase name:", uppercase);
+console.log ("message:", message);
